@@ -16,6 +16,11 @@
 
 .App-intro {
   font-size: large;
+  color:#BADA55;
+}
+
+.App-intro:hover {
+  transform: scale(2);
 }
 
 @keyframes App-logo-spin {
